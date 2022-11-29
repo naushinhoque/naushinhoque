@@ -1,5 +1,12 @@
-### Hi there 👋
-
+### Hey there 👋 I'm Naushin
+- 🔭 I’m currently attending Bloom Institute of Technology
+- 🌱 I’m currently learning Javascript, HTML, and CSS.
+- 👯 I’m looking to collaborate on any projects that I can learn from.
+- 🤔 I’m looking for help with practicing my skills.
+- 💬 Ask me about my 2 kitties!
+- 📫 How to reach me: ...
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I love waking up early.
 <!--
 **naushinhoque/naushinhoque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
