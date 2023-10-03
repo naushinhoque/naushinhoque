@@ -1,33 +1,21 @@
-### Hi there 👋, my name is Naushin!
-#### I am I'm a software engineer who loves frontend development.
-I am I'm a software engineer who loves frontend development.
+👋 Hello, I'm Naushin
 
-- 👩‍💻 I am working on making a Website!
-- 🤔 I am learning how to problem solve faster
-- 📧 You can reach me at LinkedIn
-- ⚡ Fun fact: I have two cats!
+👨‍💻 Software Engineer | 🎓 Full Stack Web Dev Student
 
-Skills: HTML, CSS, JavaScript, React,Node Git, Github
+🌐 Passionate about building innovative software solutions and exploring the ever-evolving tech landscape.
 
+🔧 Currently honing my skills in:
 
+- JavaScript, HTML, & CSS
+- Frameworks like React 
+- Tools like: Git, VS Code, Node.js 
 
+🚀 Actively seeking internships and opportunities to contribute to open-source projects.
 
+💬 Let's connect and collaborate! Feel free to reach out for discussions, project ideas, or just to say hi.
 
+📫 How to reach me:
+- LinkedIn: https://www.linkedin.com/in/naushin-hoque-b1049724b/
+- Email: naushinhoque7@gmail.com
 
-
-
-
-<!--
-**naushinhoque/naushinhoque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Always eager to learn, grow, and make a positive impact through technology. Let's code the future together! 🚀
